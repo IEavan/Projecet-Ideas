@@ -23,6 +23,8 @@ but phrased differently
 6) Determine empirically the trade-off when dropping unused 		connections, between accuracy and size and robustness.
 
 --- Misc Ideas ---
-1) Rank the irrationality of numbers by determining how well
+1) Rank the irrationality of common numbers by determining how well
 	they can be approximated as fractions of
 	arbitrary bounded size, then sort them.
+
+2) Article explaining how to discover quicksort from scratch
