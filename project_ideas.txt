@@ -21,6 +21,8 @@ but phrased differently
 	agressive image manipulation, preprocessing, crops and
 	obfuscations.
 6) Determine empirically the trade-off when dropping unused 		connections, between accuracy and size and robustness.
+7) Allow for multiple word vectors for certain strings to allow for disambiguation
+8) Learned axis in word-vector space for sentiment analysis and other arbitrary discovered properties (intensity, chirality, etc.)
 
 --- Misc Ideas ---
 1) Rank the irrationality of common numbers by determining how well
