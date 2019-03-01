@@ -30,3 +30,7 @@ but phrased differently
 	arbitrary bounded size, then sort them.
 
 2) Article explaining how to discover quicksort from scratch
+3) Treat tournaments as stochastic sorting algorithms, analyse the variance
+    of different tournament systems (elimination, swiss, Elo, round robin...)
+4) Formalise a notion of a consistently uniform sequence and consider whether
+    this can be used to derandomise algorithms.
