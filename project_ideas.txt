@@ -34,3 +34,4 @@ but phrased differently
     of different tournament systems (elimination, swiss, Elo, round robin...)
 4) Formalise a notion of a consistently uniform sequence and consider whether
     this can be used to derandomise algorithms.
+5) Options + Universal Approximation Theorems
