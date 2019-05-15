@@ -15,19 +15,20 @@ but phrased differently
 2) Automatic Tagging of source code for better search functionality on github
 3) Invertible GAN for image embeddings
 4) Attempt robustness against adversarial attacks by having learned
-	values that pixels map to. So each pixel maps to one of
-	eight fixed values, with leanred intervals.
+    values that pixels map to. So each pixel maps to one of
+    eight fixed values, with learned intervals.
 5) Analysis on robustness of image detection under increasingly
-	agressive image manipulation, preprocessing, crops and
-	obfuscations.
-6) Determine empirically the trade-off when dropping unused 		connections, between accuracy and size and robustness.
+    agressive image manipulation, preprocessing, crops and
+    obfuscations.
+6) Determine empirically the trade-off when dropping unused connections, between accuracy and size and robustness.
 7) Allow for multiple word vectors for certain strings to allow for disambiguation
 8) Learned axis in word-vector space for sentiment analysis and other arbitrary discovered properties (intensity, chirality, etc.)
+9) Better than SIFT descriptors using autoencoders or similar.
 
 --- Misc Ideas ---
 1) Rank the irrationality of common numbers by determining how well
-	they can be approximated as fractions of
-	arbitrary bounded size, then sort them.
+    they can be approximated as fractions of
+    arbitrary bounded size, then sort them.
 
 2) Article explaining how to discover quicksort from scratch
 3) Treat tournaments as stochastic sorting algorithms, analyse the variance
@@ -35,3 +36,4 @@ but phrased differently
 4) Formalise a notion of a consistently uniform sequence and consider whether
     this can be used to derandomise algorithms.
 5) Options + Universal Approximation Theorems
+6) CUDA strange attractors, sandpiles
