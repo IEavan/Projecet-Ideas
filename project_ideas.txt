@@ -27,6 +27,8 @@ but phrased differently
 10) Isomorphisms of Neural Networks, attempt to enforce some notion of uniqueness of learned
 solutions. Remove permutations of neurons. Two networks with equivalent activations across all
 data should have identical weights.
+11) Do all neurons in a network have similar topologies, or are there distinct types of neurons
+in different networks trained on different tasks?
 
 --- Misc Ideas ---
 1) Rank the irrationality of common numbers by determining how well
