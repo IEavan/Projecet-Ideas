@@ -29,6 +29,8 @@ solutions. Remove permutations of neurons. Two networks with equivalent activati
 data should have identical weights.
 11) Do all neurons in a network have similar topologies, or are there distinct types of neurons
 in different networks trained on different tasks?
+12) Automatic regonition of "forms" of equations, i.e. F: [Equations] --> [Types]
+F(y^2 = x^3 ax + b) = "Elliptic Curve"
 
 --- Misc Ideas ---
 1) Rank the irrationality of common numbers by determining how well
@@ -42,3 +44,9 @@ in different networks trained on different tasks?
     this can be used to derandomise algorithms.
 5) Options + Universal Approximation Theorems
 6) CUDA strange attractors, sandpiles
+
+--- Aesthetics Ideas ---
+1) Strange Attractors Plots or Animations
+2) Abelian Sandpiles
+3) Complex Roots of functions
+4) Regions of Convergence of recurrances (Mandelbrot & co)
